@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "2.0.0",
-    "installer_url":  "https://github.com/GuiiDEV1/Luqqzstrap-updates/releases/download/v2.0.0/Luqqzstrap_Installer.exe",
-    "changelog":  "Major version bump for Luqqzstrap 2.0.0, marking the move from the old command-line strap era to the full desktop app release channel."
+    "version":  "2.0.1",
+    "installer_url":  "https://github.com/GuiiDEV1/Luqqzstrap-updates/releases/download/v2.0.1/Luqqzstrap_Installer.exe",
+    "changelog":  "Hotfix: fixed the packaged installer missing pywebview/webview runtime files, which caused \u0027No module named webview\u0027 on clean PCs."
 }
 
