@@ -1,5 +1,5 @@
 {
-  "version": "1.0.7",
-  "installer_url": "https://github.com/GuiiDEV1/Luqqzstrap-updates/releases/download/v1.0.7/Luqqzstrap_Installer.exe",
-  "changelog": "Added a detailed injection audit log at %APPDATA%\\Luqqzstrap\\logs\\injection_audit.log with timestamps, JSON writes, memory writes, addresses, values, skipped flags, and failures."
+  "version": "1.0.8",
+  "installer_url": "https://github.com/GuiiDEV1/Luqqzstrap-updates/releases/download/v1.0.8/Luqqzstrap_Installer.exe",
+  "changelog": "Fixed the updater install step aborting when Luqqzstrap was still closing. The update launcher now waits for the app process to exit, force-closes it if needed, and passes /FORCECLOSEAPPLICATIONS to the installer."
 }
