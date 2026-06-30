@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
-  "installer_url": "https://github.com/GuiiDEV1/Luqqzstrap-updates/releases/download/v1.0.4/Luqqzstrap_Installer.exe",
-  "changelog": "Fixed the updater flow so Update Now re-checks the latest manifest before downloading, bypasses GitHub raw cache, waits for the installer to finish, and relaunches Luqqzstrap automatically."
+  "version": "1.0.5",
+  "installer_url": "https://github.com/GuiiDEV1/Luqqzstrap-updates/releases/download/v1.0.5/Luqqzstrap_Installer.exe",
+  "changelog": "Replaced the remaining FF tray/taskbar branding with the transparent Luqqzstrap logo and regenerated the installer/icon assets."
 }
