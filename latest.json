@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
-  "installer_url": "https://github.com/GuiiDEV1/Luqqzstrap-updates/releases/download/v1.0.2/Luqqzstrap_Installer.exe",
-  "changelog": "Replaced the old FF branding with the new Luqqzstrap logo across the app, installer, executable icon, loading screen, update overlay, README, and setup wizard."
+  "version": "1.0.3",
+  "installer_url": "https://github.com/GuiiDEV1/Luqqzstrap-updates/releases/download/v1.0.3/Luqqzstrap_Installer.exe",
+  "changelog": "Removed remaining green accent colors from the default UI, loading screen, update overlay, badges, preset defaults, and progress bars. Matrix theme keeps its intentional green terminal style."
 }
