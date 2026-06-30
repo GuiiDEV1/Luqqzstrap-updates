@@ -1,5 +1,5 @@
 {
-  "version": "1.0.8",
-  "installer_url": "https://github.com/GuiiDEV1/Luqqzstrap-updates/releases/download/v1.0.8/Luqqzstrap_Installer.exe",
-  "changelog": "Fixed the updater install step aborting when Luqqzstrap was still closing. The update launcher now waits for the app process to exit, force-closes it if needed, and passes /FORCECLOSEAPPLICATIONS to the installer."
+  "version": "1.0.9",
+  "installer_url": "https://github.com/GuiiDEV1/Luqqzstrap-updates/releases/download/v1.0.9/Luqqzstrap_Installer.exe",
+  "changelog": "Fixed the updater more deeply: it now waits for Luqqzstrap.exe to close before running the installer, force-closes it if needed, uses /FORCECLOSEAPPLICATIONS, and checks both latest.json and GitHub Releases API to avoid raw manifest cache delays."
 }
