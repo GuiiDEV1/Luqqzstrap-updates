@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
-  "installer_url": "https://github.com/GuiiDEV1/Luqqzstrap-updates/releases/download/v1.0.3/Luqqzstrap_Installer.exe",
-  "changelog": "Removed remaining green accent colors from the default UI, loading screen, update overlay, badges, preset defaults, and progress bars. Matrix theme keeps its intentional green terminal style."
+  "version": "1.0.4",
+  "installer_url": "https://github.com/GuiiDEV1/Luqqzstrap-updates/releases/download/v1.0.4/Luqqzstrap_Installer.exe",
+  "changelog": "Fixed the updater flow so Update Now re-checks the latest manifest before downloading, bypasses GitHub raw cache, waits for the installer to finish, and relaunches Luqqzstrap automatically."
 }
