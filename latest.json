@@ -1,5 +1,5 @@
 {
-  "version": "2.5.0",
-  "installer_url": "https://github.com/guiidev1/Luqqzstrap-updates/releases/download/v2.5.0/Luqqzstrap_Installer.exe",
-  "changelog": "Luqqzstrap v2.5.0 release for GuiiDev1 with automatic Intel iGPU detection"
+  "version": "2.5.2",
+  "installer_url": "https://github.com/guiidev1/Luqqzstrap-updates/releases/download/v2.5.2/Luqqzstrap_Installer.exe",
+  "changelog": "Luqqzstrap v2.5.2 release for GuiiDev1 with full guarded startup initialization"
 }
