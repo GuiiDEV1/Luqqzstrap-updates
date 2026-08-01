@@ -1,5 +1,5 @@
 {
-  "version": "2.4.9",
-  "installer_url": "https://github.com/guiidev1/Luqqzstrap-updates/releases/download/v2.4.9/Luqqzstrap_Installer.exe",
-  "changelog": "Luqqzstrap v2.4.9 release for GuiiDev1 with Intel HD 530 black screen fix"
+  "version": "2.5.0",
+  "installer_url": "https://github.com/guiidev1/Luqqzstrap-updates/releases/download/v2.5.0/Luqqzstrap_Installer.exe",
+  "changelog": "Luqqzstrap v2.5.0 release for GuiiDev1 with automatic Intel iGPU detection"
 }
